@@ -21,7 +21,7 @@ This was written in java but wrapped with the jre using launch4j, so no java sho
 
 Caveats: This program will check if you have one of each of the distinct PVE islands and 9 trenches. Currently didn't have a plan to allow for duplicating powerstone islands, but may if there is enough request for it.
 
-Requirements
+**Requirements**
 Requires Java Runtime Environment 8.  Available https://www.java.com/en/download/
 
 To run, navigate to the dist folder and run Beach_Atlas_Config.jar
