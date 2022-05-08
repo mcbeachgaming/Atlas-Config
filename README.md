@@ -14,9 +14,7 @@ The Populate Power Stones and Essences will set the quest entries to the correct
 
 The add transient nodes check box will add cursed and sulfurous ground to the islands specified in the transient.txt file inside the resources folder. These islands were pulled from the official json, but can add additional islands to the file. This will alternate between the two transient types.
 
-Selecting the overwrite option will overwrite all the changes to the json. This is not recommended in early versions of the program.
-
-This was written in java but wrapped with the jre using launch4j, so no java should be necessary to run this application.
+Selecting the overwrite option will overwrite all the changes to the json. This is not recommended in early versions of the program.  If you do no specify to overwrite, it will write the json next to the Beach_Atlas_Config.jar
 
 Caveats: This program will check if you have one of each of the distinct PVE islands and 9 trenches. Currently didn't have a plan to allow for duplicating powerstone islands, but may if there is enough request for it.
 
@@ -24,5 +22,6 @@ Caveats: This program will check if you have one of each of the distinct PVE isl
 Requires Java Runtime Environment 8.  Available https://www.java.com/en/download/
 
 To run, navigate to the dist folder and run Beach_Atlas_Config.jar
+
 
 Beach#2483 on discord for support.
