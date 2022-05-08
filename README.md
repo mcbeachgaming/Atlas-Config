@@ -1,4 +1,5 @@
 # Atlas-Config
+![image](https://user-images.githubusercontent.com/105144083/167309716-e38543bc-55df-45b6-bf4b-89d1a11c6af4.png)
 
 
 This configurator does several things. When you select your ServerGrid.json file, it will pull the number of x grids and y grids, and begin to populate suggested ports that would need to be forwarded You can modify the start port and it will calculate the ending port. The ip address is retrieved from amazon aws.
